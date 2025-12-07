@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Madhumitha👋
 
-<!--
-**Madhu24-Git/Madhu24-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate Ecommerce Analyst from Chennai
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on github ( learning from skillup online )
+* 🌱 I’m currently learning Data analytics
+* 👯 I’m looking to collaborate on projects related to Business Analyis or Data Analysis
+* 📫 How to reach me: madhumitha202404@gmail.com
+* ⚡ Fun fact: I can work better with music on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My core competencies
+
+Here are a few areas I've been working on recently:
+
+* **Data Analytics Tool:** Power BI, Tableau
+* **Database:** SQL
+* **Stakeholder Management** 
+* **Warehouse operations** 
+* **Functional testing** 
+
+---
+
+### 🔗 Connect with me:
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhumitha-raveendran-86520b24b)
+
