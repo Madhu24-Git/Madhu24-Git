@@ -6,7 +6,7 @@
 * Strong communicator skilled in collaborating with cross-functional teams to improve processes, resolve operational challenges, and support data-driven decision making. 
 * I’m looking to collaborate on projects related to Business Analyis or Data Analysis
 * How to reach me: madhumitha202404@gmail.com 
-# * Fun fact: I can work better with music on 🙂
+* Fun fact: I can work better with music on 🙂
 
 ---
 
