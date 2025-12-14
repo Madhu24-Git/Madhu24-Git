@@ -33,28 +33,28 @@ Here are a few areas I've been working on recently:
 
 ### Professional Experience 
 
-# Accenture  
-# Project: [H&M] Business Analyst / Data & Process Analyst                     November 2023 – Present   
+# Accenture
+# Project: [H&M] Business Analyst / Data & Process Analyst                      November 2023 – Present   
 
-# _Requirements & Documentation_
+_Requirements & Documentation_
 *	Gathered and analysed business requirements from warehouse teams, logistics vendors, and client stakeholders.
 *	Created process documents, SOPs, workflow diagrams, and issue reports, improving clarity and efficiency in operations.
 *	Translated operational problems into clear functional requirements for cross-functional teams.
 
 
-# _Process & Data Analysis_
+_Process & Data Analysis_
 *	Analysed data across 100+ vendors and 30+ warehouses to identify bottlenecks, recurring incidents, and process gaps.
 *	Generated weekly and monthly dashboards/reports using Power BI and Excel to support management decisions.
 *	Extracted and validated data to ensure accuracy and consistency across operations.
 
 
-# _Project Tracking & Collaboration_
+ _Project Tracking & Collaboration_
 *	Coordinated with logistics teams, vendors, carriers, and internal stakeholders to resolve high priority issues.
 *	Conducted weekly client meetings with H&M to present incident summaries, root causes, and improvement actions.
 *	Supported project tracking using Jira/Confluence for issue logging, documentation, and updates.
 
 
-# _Testing & Quality_
+ _Testing & Quality_
 *	Assisted in performing UAT, validating system changes before release.
 *	Stream trained in Functional testing. Proficiency in ALM and manual testing. 
 
