@@ -4,7 +4,7 @@
 
 * Detail oriented Business Analyst with 2+ years of experience in e-commerce and supply chain operations.
 * Strong communicator skilled in collaborating with cross-functional teams to improve processes, resolve operational challenges, and support data-driven decision making. 
-* I’m looking to collaborate on projects related to Business Analyis or Data Analysis
+* I’m looking to collaborate on projects related to Business Analyis
 * How to reach me: madhumitha202404@gmail.com 
 * Fun fact: I can work better with music on 🙂
 
